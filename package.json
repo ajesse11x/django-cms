@@ -45,7 +45,7 @@
     "webpack": "^3.0.0"
   },
   "dependencies": {
-    "babel-runtime": "^6.23.0",
+    "babel-runtime": "^6.26.0",
     "diff-dom": "^2.1.0",
     "fuzzaldrin": "^2.1.0",
     "keyboardjs": "^2.3.1",
