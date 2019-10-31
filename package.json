@@ -49,7 +49,7 @@
     "diff-dom": "^2.1.0",
     "fuzzaldrin": "^2.1.0",
     "keyboardjs": "^2.3.1",
-    "local-storage": "^1.4.2",
+    "local-storage": "^2.0.0",
     "lodash": "^4.17.4",
     "nprogress": "^0.2.0",
     "prevent-parent-scroll": "0.0.6",
